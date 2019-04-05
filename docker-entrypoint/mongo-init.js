@@ -9,13 +9,13 @@ db.users.insertMany([
     _id: 1,
     name: "Superman",
     creationTime: "0",
-    auth_hash: ""
+    authHash: ""
   },
   {
     _id: 2,
     name: "Batman",
     creationTime: "0",
-    auth_hash: ""
+    authHash: ""
   }
 ]);
 
